@@ -5,3 +5,5 @@ There are four main code groups. "mainXX" runs on the microcontroller wired to a
 "ESPX" runs on the ESP32, and just handles wifi coms. 
 "sonarXX" runs on the microcontroller wired to the sonar electronics, it handles timing and rangefinding for all 16 sonar transducers.
 "processingskethchX" is just the gui, it displays received data onscreen and sends arrow key commands back to the robot. 
+
+Find detailed video here: https://youtu.be/zBqBtlJpo7s
