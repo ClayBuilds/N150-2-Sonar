@@ -7,3 +7,5 @@ There are four main code groups. "mainXX" runs on the microcontroller wired to a
 "processingskethchX" is just the gui, it displays received data onscreen and sends arrow key commands back to the robot. 
 
 Find detailed video here: https://youtu.be/zBqBtlJpo7s
+
+More pictures, details about the project: https://www.clay-p-mcpherson.com/projects/n150-sonar-restoration/
